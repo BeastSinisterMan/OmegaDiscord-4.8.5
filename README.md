@@ -5,4 +5,3 @@ Require Python 3.8.2 &lt;your computer bits>
 Free nitro
 Token genterator
 Get token by id
-
